@@ -1,0 +1,133 @@
+
+.f{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 35% ;
+    
+}
+
+.box{
+    background-color: aliceblue;
+    border: 2px solid black;
+    width: 30%;
+    height: 72vh;
+    
+}
+
+.box1{
+    background-color: lemonchiffon;
+    border: 3px solid rgb(255, 179, 0);
+    width: 90%;
+    height: 100px;
+    margin: 20px 0 0 25px;
+
+}
+
+.h1{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 17px;
+}
+
+.box2{
+    background-color: lemonchiffon;
+    border: 3px solid rgb(255, 179, 0);
+    width: 30%;
+    height: 400px;
+    margin: 10px 0 0 25px;
+
+}
+
+.h2{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+.box3{
+    background-color: lemonchiffon;
+    border: 3px solid rgb(255, 179, 0);
+    width: 55%;
+    height: 120px;
+    float: right;
+    margin: -72% 26px 0 0;
+}
+
+.h3{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.box4{
+    background-color: lemonchiffon;
+    border: 3px solid rgb(255, 179, 0);
+    width: 55%;
+    height: 120px;
+    float: right;
+    margin: -47% 26px 0 0;
+}
+
+.h4{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.box5{
+    background-color: lemonchiffon;
+    border: 3px solid rgb(255, 179, 0);
+    width: 55%;
+    height: 120px;
+    float: right;
+    margin: -22% 26px 0 0;
+}
+
+.h5{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.box6{
+    background-color: lemonchiffon;
+    border: 3px solid rgb(255, 179, 0);
+    width: 90%;
+    height: 110px;
+    margin: 10px 0 0 25px;
+    
+}
+
+.h6{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.button{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    padding: 8px 30px;
+    margin: 0 10px ;
+    
+}
+
+.b{
+    margin: 20px 40px;
+}
+
+.button:hover{
+    background-color: rgb(255, 106, 0);
+}
